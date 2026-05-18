@@ -4,7 +4,6 @@ ScanSword 是一款基于 Wails、Go、React 和 Nuclei 的本地化安全测试
 
 它不是单一的扫描器，而是一套围绕“模板管理 -> 批量验证 -> 命中复核 -> 流量分析 -> 重放验证 -> 指纹沉淀”的完整工作流。
 
-- POC 仓库地址：[https://github.com/zg-sec/scansword-pocs](https://github.com/zg-sec/scansword-pocs)
 - 版本发布地址：[https://github.com/zg-sec/scansword/releases](https://github.com/zg-sec/scansword/releases)
 
 ## 核心能力
