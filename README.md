@@ -5,6 +5,8 @@ ScanSword 是一款基于 Wails、Go、React 和 Nuclei 的本地化安全测试
 它不是单一的扫描器，而是一套围绕“模板管理 -> 批量验证 -> 命中复核 -> 流量分析 -> 重放验证 -> 指纹沉淀”的完整工作流。
 
 - 版本发布地址：[https://github.com/zg-sec/scansword/releases](https://github.com/zg-sec/scansword/releases)
+- POC与指纹发布：目录pocs_finger_260518提供初始量：POC:52124个，指纹：19607个（初始量为人工筛选后，又经过AI修复，不能保证绝对可用）
+- POC与指纹发布发布策略：按照时间判断更新时间，每个文件为差异增量更新。解压密码：zhugeanquan
 
 ## 核心能力
 
