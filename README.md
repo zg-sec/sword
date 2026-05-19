@@ -1,4 +1,4 @@
-# ScanSword 项目介绍
+# ScanSword 项目介绍 
 
 ScanSword 是一款基于 Wails、Go、React 和 Nuclei 的本地化安全测试工具，面向安全研究、红蓝对抗、渗透测试和日常漏洞验证场景，帮助用户把 POC 管理、扫描执行、流量复核、请求调试、指纹识别等放到同一个应用中的工具。
 
