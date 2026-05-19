@@ -8,8 +8,7 @@ ScanSword 是一款基于 Wails、Go、React 和 Nuclei 的本地化安全测试
 - 版本发布地址：[https://github.com/zg-sec/scansword/releases](https://github.com/zg-sec/scansword/releases)
 - POC与指纹发布：目录pocs_finger_260518提供初始量：POC:52124个，指纹：19607个（初始量为人工筛选后，又经过AI修复，不能保证绝对可用）
 - POC与指纹发布发布策略：按照时间判断更新时间，每个文件为差异增量更新。解压密码：zhugeanquan
-- 关于授权：在线激活和离线激活两种，公众号找我要激活码。
-- 关于收费与开源：暂不考虑收费，等稳定之后会考虑开源。
+- 关于授权：在线激活和离线激活两种，公众号进圈子免费获取激活码。
 
 ## 核心能力
 
